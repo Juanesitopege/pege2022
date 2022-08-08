@@ -10,7 +10,7 @@ ws.onmessage = (msg) => {
 kaboom({
 	background: [ 0, 0, 0 ]
 })
-loadSprite("grass","")
+loadSprite("grass","/sprites/grass.png")
 loadSprite("marmota", "/sprites/marmota.png") 
 loadSprite( "potter", "/sprites/potter.png")
 loadSprite("barbosa", "/sprites/barbosa.png")
